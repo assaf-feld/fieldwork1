@@ -1,1 +1,3 @@
 # fieldwork1
+Hello. My name is Assaf Feldman and I'm just learning about Git right now...
+
